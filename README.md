@@ -1,1 +1,7 @@
-# tableau-homework
+*Used June, July, and August 2013 CSVs*
+
+The ridership dashboard does a good job of illustrating a couple of key points. One, the amount of time spent using our bikes has increased steadily month by month over the    course of these three months. Second, despite the increase in total duration of bike trips from July to August, July still had a greater number of total trips than August. Therefore, August saw a hugh spike in average trip duration. June lagged behind both July and August pretty significantly. Finally, the distribution of total rides by gender is very similar in June and August, however July saw a noticeable dip in female ridership compared to male and unknown genders.
+
+The start and end maps dashboard gives a very straightforward visual that Manhattan is clearly the hot bed for our business. In terms of volume, we might be approaching the limit to how many bikes we can have in Manhattan and might want to explore expanding into the other boroughs more prominently. Brooklyn has a sizeable market for our products, however Queens, Bronx, and Staten Island are almost entirely unaccounted for.
+
+The top 10 bikes dashboard was designed to show if we have any consistently top performing bikes throughout the city. Unfortunately, there were no repeats in the top 10 most used bikes in June, July, or August. This is something we will want to monitor in the coming months to see if there are any top bikes and where they're mostly used to potentially find the best neighborhoods for our bikes stations.
